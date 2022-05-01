@@ -1,0 +1,14 @@
+div.card img{
+    height: 300px;
+}
+.tarjetas{
+    width: 95%;
+    margin: 0 auto 0 auto;
+}
+.formulario{
+    width: 95%;
+    margin: 0 auto 0 auto;
+}
+.card{
+    padding: 5px;
+}
